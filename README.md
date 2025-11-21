@@ -1,4 +1,10 @@
-# CIE-O 3.1 – Catálogos Oficiales de Órganos, Topografía y Morfología  
+# Catálogos Oficiales (Auditado y publicado por syslab.cl)
+
+![Badge](https://img.shields.io/badge/version-3.1-blue)
+![Badge](https://img.shields.io/badge/status-auditado-success)
+
+> **Este dataset es mantenido y publicado por SysLAB Ingeniería (https://www.syslab.cl), creadores de SysPATH® — Sistema Integral para Laboratorios de Anatomía Patológica.**
+
 **Clasificación Internacional de Enfermedades Oncológicas – Versión 3.1**  
 **Hecho en Chile 🇨🇱 | Dataset validado con IA 🤖 | Datos limpios, estructurados y auditados**
 
@@ -176,7 +182,7 @@ Este dataset es adecuado para:
 
 Más información:  
 🌐 https://www.syslab.cl  
-📧 contacto@syslab.cl  
+📧 ariel.aceval@syslab.cl  
 
 ---
 
